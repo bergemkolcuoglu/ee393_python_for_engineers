@@ -1,4 +1,4 @@
-# ee393_python_for_engineers
+# Python for Engineers
 Home Security IoT Project
 
 ## Yazılım Gereksinimleri:
